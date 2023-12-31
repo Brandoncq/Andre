@@ -19,6 +19,13 @@ export const Work = () => {
     }
   };
 
+  const handleScrollToTop = () => {
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth',
+    });
+    console.log("hi")
+  };
 
   return (
     <>
@@ -29,7 +36,7 @@ export const Work = () => {
       </div>
       <div className="flex flex-wrap mr-7 ml-7" ref={projectsContainerRef}>
         {projects.map((project, index) => (
-          <div className="p-10 flex flex-col lg:w-1/2 w-full">
+          <div className="p-10 flex flex-col lg:w-1/2 w-full" onClick={handleScrollToTop}>
             <div key={index} className="cursor-pointer items-center justify-center">
               <NavLink to={`/work/${encodeURIComponent(project.titulo)}`}>
                 <div className="w-full flex flex-col items-center overflow-hidden">

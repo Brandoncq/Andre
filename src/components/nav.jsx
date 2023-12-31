@@ -7,7 +7,6 @@ export const Navbar = () => {
       top: 0,
       behavior: 'smooth',
     });
-    console.log("hi")
   };
 
   return(
