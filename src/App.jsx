@@ -1,9 +1,9 @@
 import { Route, Routes } from 'react-router-dom';
 import { Navbar } from './components/nav';
 import { Work, Contact,ProjectDetails } from './components/pages';
-import { useLocation } from 'react-router-dom';
+
 function App() {
-  const location = useLocation();
+
   return (
     <div className='App'>
       <Navbar />

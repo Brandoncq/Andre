@@ -16,7 +16,9 @@ body{
 .bg-custom{
   background-color: #191919;
 }
-
+.img-projects {
+  transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
+}
 .img-projects:hover{
   transform: scale(1.1);
   opacity: 0.3;
@@ -28,6 +30,11 @@ body{
 .size-text-projects{
   font-size: 1em;
   margin: .2em;
+}
+.size-text-year{
+  font-size: .85em;
+  margin: .2em;
+  color: #adadad;
 }
 .size-text-design{
   font-size: 1.2em;

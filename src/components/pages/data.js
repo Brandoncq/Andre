@@ -1,7 +1,8 @@
 export const info= [
     {
         "titulo": "Casa X",
-        "imagen": "https://cdn.myportfolio.com/281f974e-a395-46dd-b6d4-5cd3b8f19a0f/71b1fa27-ec30-4976-b2b1-bb93589ba328_rw_1920.jpg?h=0a0b247e56e73f5879bdfe1e53e65f27",
+        "imagen": "https://res.cloudinary.com/dmo6ofy2z/image/upload/v1703516101/0_ebxhub.jpg",
+        "year": "2023",
         "elementos": [
           { "tipo": "parrafo", "contenido": "Proyecto Arquitectónico: Fachada Introspectiva y Patio Terraza Amplio Dimensión: 8m x 20m Una fachada elegante y reservada da la bienvenida en este proyecto de 8m x 20m, donde la introspección se encuentra con un sorprendente patio terraza." },
           { "tipo": "imagen", "contenido": "https://drive.google.com/uc?id=1zOwK2UTGSKXaKZ2fRDJ9NhvHIbA_gyXi" },
@@ -17,7 +18,8 @@ export const info= [
       },
       {
         "titulo": "Casa Y",
-        "imagen": "https://drive.google.com/uc?id=1D5_ZRQc9rLjdrtx89L0caaCbfihwV-99",
+        "imagen": "https://res.cloudinary.com/dmo6ofy2z/image/upload/v1703516102/0_1_b2doas.jpg",
+        "year": "2023",
         "elementos": [
           { "tipo": "parrafo", "contenido": "Proyecto Arquitectónico: Fachada Introspectiva y Patio Terraza Amplio Dimensión: 8m x 20m Una fachada elegante y reservada da la bienvenida en este proyecto de 8m x 20m, donde la introspección se encuentra con un sorprendente patio terraza." },
           { "tipo": "imagen", "contenido": "https://drive.google.com/uc?id=1xuMguQmK_nqnixqdl_vdtBOD6roOzaV_" },
@@ -31,7 +33,8 @@ export const info= [
       },
       {
         "titulo": "Torre Collet",
-        "imagen": "https://drive.google.com/uc?id=1O96Kxt2YTAD2sSDmDKwiwcuu95e31dtF",
+        "imagen": "https://res.cloudinary.com/dmo6ofy2z/image/upload/v1703516101/0_2_ymqzrt.jpg",
+        "year": "2023",
         "elementos": [
           { "tipo": "parrafo", "contenido": "En un área de 600 m2 ubicada en el corazón de un conjunto residencial, al que se accede a través de una plaza, se ha concebido un conjunto de 16 viviendas. El objetivo central de este proyecto es brindar una mejora en la calidad de vida dentro del contexto de una creciente densidad urbana. La reinterpretación de las regulaciones del código y las características del entorno barrial de R6 han dado lugar a una nueva tipología que busca enriquecer la oferta arquitectónica en esta área." },
           { "tipo": "imagen", "contenido": "https://drive.google.com/uc?id=1dv0L6rZgyl3aYRnekF8JXybrCGSUZY7_" },
@@ -43,7 +46,8 @@ export const info= [
       },
     {
       "titulo": "Casa Huerto",
-      "imagen": "https://drive.google.com/uc?id=11ddRL5yIDUR_cQ5VQB9d0LUcLxKesSaW",
+      "imagen": "https://res.cloudinary.com/dmo6ofy2z/image/upload/v1703516099/0_3_vv3pir.jpg",
+      "year": "2023",
       "elementos": [
         { "tipo": "parrafo", "contenido": "Render Maqueta: Vivienda en la Playa con Huerto Este render tipo maqueta resalta nuestra vivienda de diseño costero. El enfoque está en el diseño de la casa y el generoso espacio del patio con huerto." },
         { "tipo": "imagen", "contenido": "https://drive.google.com/uc?id=1hBbcw2H6wN81BDiBKsktaiHzgV6QmDB2" },
@@ -55,7 +59,8 @@ export const info= [
     },
     {
       "titulo": "Casa Marco",
-      "imagen": "https://drive.google.com/uc?id=1uxtHBZbiUtN2-4ThlAYIKPIUP7BEkc82",
+      "imagen": "https://res.cloudinary.com/dmo6ofy2z/image/upload/v1703516099/0_4_zwvkzy.jpg",
+      "year": "2023",
       "elementos": [
         { "tipo": "parrafo", "contenido": "La imagen es un render que simula una maqueta virtual de una casa en la playa. Destaca por sus amplios espacios sociales y grandes ventanales que ofrecen vistas al mar y permiten la entrada de mucha luz natural. La casa parece diseñada para promover la convivencia y aprovechar al máximo su ubicación costera." },
         { "tipo": "imagen", "contenido": "https://drive.google.com/uc?id=14sBQGX_lNRX8y91lQ7ISZNzJRXHLzUq3" },
@@ -66,7 +71,8 @@ export const info= [
     },
     {
       "titulo": "Isométrico Interior",
-      "imagen": "https://drive.google.com/uc?id=1bod3Q4Rb6r2UnH1ynO-tRcWxJLIrwgif",
+      "imagen": "https://res.cloudinary.com/dmo6ofy2z/image/upload/v1703516105/0_5_bqlc5k.jpg",
+      "year": "2023",
       "elementos": [
         { "tipo": "parrafo", "contenido": "Render de isometrico interior." },
         { "tipo": "imagen", "contenido": "https://drive.google.com/uc?id=1DP1dbkuv5u54G7teA_VzajKSlHn3lUJo" },
@@ -75,7 +81,8 @@ export const info= [
     },
     {
         "titulo": "Ejercicios Conceptuales",
-        "imagen": "https://drive.google.com/uc?id=1A-Ej9ZDYE1_EHOL9B1VnW36hBPXSG7nL",
+        "imagen": "https://res.cloudinary.com/dmo6ofy2z/image/upload/v1703516098/2_eefz0z.jpg",
+        "year": "2023",
         "elementos": [
           { "tipo": "imagen", "contenido": "https://drive.google.com/uc?id=18btYE_PZfPVRV41ouVR9J1aUZqN6CpQa" },
           { "tipo": "imagen", "contenido": "https://drive.google.com/uc?id=1dpXhV9O9lyYHCBTaghoppXK8Zs4nENG_" },

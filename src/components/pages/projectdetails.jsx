@@ -1,10 +1,16 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { info } from './data.js';
 import { useParams } from 'react-router-dom';
 
 export const ProjectDetails = () => {
   let { project } = useParams();
   let projectSelected = info.find(buscar => project.toLowerCase() === buscar.titulo.toLowerCase());
+  useEffect(() => {
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth',
+    });
+  }, [project]);
 
   return (
     <>
@@ -18,7 +24,7 @@ export const ProjectDetails = () => {
               <React.Fragment key={elementoIndex}>
                 {elemento.tipo === 'parrafo' && <p className="text-white m-4">{elemento.contenido}</p>}
                 {elemento.tipo === 'imagen' && (
-                  <img src={elemento.contenido} alt={`Imagen ${elementoIndex}`} className="m-4" />
+                  <img src={elemento.contenido} alt={`Imagen ${elementoIndex}`} className="m-4 w-full h-auto" />
                 )}
               </React.Fragment>
             ))}
