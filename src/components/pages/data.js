@@ -1,7 +1,7 @@
 export const info= [
     {
         "titulo": "Casa X",
-        "imagen": "https://res.cloudinary.com/dmo6ofy2z/image/upload/v1703516101/0_ebxhub.jpg",
+        "imagen": "https://res.cloudinary.com/dmo6ofy2z/image/upload/v1704049021/0-ebxhub_ockvso.webp",
         "year": "2023",
         "elementos": [
           { "tipo": "parrafo", "contenido": "Proyecto Arquitectónico: Fachada Introspectiva y Patio Terraza Amplio Dimensión: 8m x 20m Una fachada elegante y reservada da la bienvenida en este proyecto de 8m x 20m, donde la introspección se encuentra con un sorprendente patio terraza." },
@@ -18,7 +18,7 @@ export const info= [
       },
       {
         "titulo": "Casa Y",
-        "imagen": "https://res.cloudinary.com/dmo6ofy2z/image/upload/v1703516102/0_1_b2doas.jpg",
+        "imagen": "https://res.cloudinary.com/dmo6ofy2z/image/upload/v1704049022/0-1-b2doas_kucj4a.webp",
         "year": "2023",
         "elementos": [
           { "tipo": "parrafo", "contenido": "Proyecto Arquitectónico: Fachada Introspectiva y Patio Terraza Amplio Dimensión: 8m x 20m Una fachada elegante y reservada da la bienvenida en este proyecto de 8m x 20m, donde la introspección se encuentra con un sorprendente patio terraza." },
@@ -33,7 +33,7 @@ export const info= [
       },
       {
         "titulo": "Torre Collet",
-        "imagen": "https://res.cloudinary.com/dmo6ofy2z/image/upload/v1703516101/0_2_ymqzrt.jpg",
+        "imagen": "https://res.cloudinary.com/dmo6ofy2z/image/upload/v1704049022/0-2-ymqzrt_hizfln.webp",
         "year": "2023",
         "elementos": [
           { "tipo": "parrafo", "contenido": "En un área de 600 m2 ubicada en el corazón de un conjunto residencial, al que se accede a través de una plaza, se ha concebido un conjunto de 16 viviendas. El objetivo central de este proyecto es brindar una mejora en la calidad de vida dentro del contexto de una creciente densidad urbana. La reinterpretación de las regulaciones del código y las características del entorno barrial de R6 han dado lugar a una nueva tipología que busca enriquecer la oferta arquitectónica en esta área." },
@@ -46,7 +46,7 @@ export const info= [
       },
     {
       "titulo": "Casa Huerto",
-      "imagen": "https://res.cloudinary.com/dmo6ofy2z/image/upload/v1703516099/0_3_vv3pir.jpg",
+      "imagen": "https://res.cloudinary.com/dmo6ofy2z/image/upload/v1704049021/0-3-vv3pir_aglevk.webp",
       "year": "2023",
       "elementos": [
         { "tipo": "parrafo", "contenido": "Render Maqueta: Vivienda en la Playa con Huerto Este render tipo maqueta resalta nuestra vivienda de diseño costero. El enfoque está en el diseño de la casa y el generoso espacio del patio con huerto." },
@@ -59,7 +59,7 @@ export const info= [
     },
     {
       "titulo": "Casa Marco",
-      "imagen": "https://res.cloudinary.com/dmo6ofy2z/image/upload/v1703516099/0_4_zwvkzy.jpg",
+      "imagen": "https://res.cloudinary.com/dmo6ofy2z/image/upload/v1704049022/0-4-zwvkzy_xnfgod.webp",
       "year": "2023",
       "elementos": [
         { "tipo": "parrafo", "contenido": "La imagen es un render que simula una maqueta virtual de una casa en la playa. Destaca por sus amplios espacios sociales y grandes ventanales que ofrecen vistas al mar y permiten la entrada de mucha luz natural. La casa parece diseñada para promover la convivencia y aprovechar al máximo su ubicación costera." },
@@ -71,7 +71,7 @@ export const info= [
     },
     {
       "titulo": "Isométrico Interior",
-      "imagen": "https://res.cloudinary.com/dmo6ofy2z/image/upload/v1703516105/0_5_bqlc5k.jpg",
+      "imagen": "https://res.cloudinary.com/dmo6ofy2z/image/upload/v1704049024/0-5-bqlc5k_qa5wm0.webp",
       "year": "2023",
       "elementos": [
         { "tipo": "parrafo", "contenido": "Render de isometrico interior." },
@@ -81,7 +81,7 @@ export const info= [
     },
     {
         "titulo": "Ejercicios Conceptuales",
-        "imagen": "https://res.cloudinary.com/dmo6ofy2z/image/upload/v1703516098/2_eefz0z.jpg",
+        "imagen": "https://res.cloudinary.com/dmo6ofy2z/image/upload/v1704049022/2-eefz0z_aoiu59.webp",
         "year": "2023",
         "elementos": [
           { "tipo": "imagen", "contenido": "https://drive.google.com/uc?id=18btYE_PZfPVRV41ouVR9J1aUZqN6CpQa" },
